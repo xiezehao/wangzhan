@@ -1,0 +1,125 @@
+.top{
+	background-color: #1D7AD9;
+	width: 100%;
+	height: 85px;
+}
+
+.logo{
+	width: 462px;
+	height: 85px;
+	/*background-color: red;*/
+	margin: 0 auto;
+	
+}
+
+.logo img{
+	float: left;
+	margin-top: 10px;
+}
+
+.logo p{
+	float: left;
+	margin-left: 20px;
+	font-family: "微软雅黑";
+	font-size: 22px;
+	color: white;
+	margin-top: 36px;
+}
+
+.content{
+	width: 100%;
+	height: 100%;
+	margin-top: 10px;
+	
+}
+
+.contentDiv{
+	margin: 0 auto;
+	/*background: ;*/ 
+	width: 460px;
+	height: 387px;
+	/*border: 1px solid gainsboro;*/
+}
+
+.contentDiv2{
+	/*margin: 0 auto;*/
+	/*background: ;*/ 
+	width: 460px;
+	height: 355px;
+	border: 1px solid gainsboro;
+}
+
+.zhuceBtn{
+	background-color: #7CBE56;
+	color: white;
+	width: 115px;
+	height: 32px;
+	margin-left: 305px;
+	border: none;
+} 
+
+
+.name{
+	margin-top: 40px;
+	margin-left: 87px;
+}
+
+.name,.password p{
+	font-size: 15px;
+	color: gainsboro;
+	font-family: "微软雅黑";
+}
+.name input{
+	width: 305px;
+	height: 35px;
+	
+}
+
+.password{
+	margin-top: 15px;
+	margin-left: 87px;
+}
+
+.password input{
+	width: 305px;
+	height: 35px;
+}
+
+.checkBox{
+	margin-top: 27px;
+	margin-left: 87px;
+}
+
+.checkBox a{
+	text-decoration: none;
+	color: black;
+}
+
+.loginBtn{
+	width: 305px;
+	height: 35px;
+	margin-left: 87px;
+	margin-top: 30px;
+	/*border: none;*/
+}
+
+.cooperation{
+	 margin-top: 30px;
+	 margin-left: 87px;
+}
+
+.cooperation p{
+	font-size: 12px;
+	color: gainsboro;
+	font-family: "微软雅黑";
+}
+
+.cooperation ul{
+	/*float: left;*/
+}
+
+.cooperation ul li{
+	float: left;
+	font-size: 12px;
+	color: gray;
+}
