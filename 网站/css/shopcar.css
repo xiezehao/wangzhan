@@ -176,3 +176,85 @@
 	margin-top: 14px;
 	border: 1px solid gainsboro;
 }
+.content_payment_invoice_checkBox{
+	margin-left: 31px;
+	margin-top: 14px;
+	font-size: 13px;
+}
+
+.content_payment_invoice_checkBox input{
+	
+	width: 13px;
+	height: 13px;
+}
+
+.content_payment_invoice_leixing{
+	margin-left: 37px;
+	margin-top: 32px;
+	font-size: 13px;
+}
+
+.content_payment_invoice_leixing select{
+	width: 111px;
+	height: 19px;
+	font-size: 12px;
+}
+
+.content_payment_invoice_taitou{
+	margin-left: 37px;
+	margin-top: 16px;
+	line-height: 24px;
+	text-align: center;
+}
+
+.content_payment_invoice_taitou select{ 
+	width: 50px;
+	height: 19px;
+	float: left;
+	font-size: 12px;
+	vertical-align: middle;
+}
+
+.content_payment_invoice_taitou input{ 
+	width: 140px;
+	height: 24px;
+	margin-left: 5px;
+	float: left;
+}
+
+.content_payment_invoice_BTN{
+	margin-left: 48px;
+	margin-top: 15px;
+}
+#save{
+	width: 67px;
+	height: 25px;
+	background-color: #4290FB;
+	color: white;
+	border: none;
+}
+#canel{
+	width: 67px;
+	height: 25px;
+	background-color: #F4F4F4;
+	margin-left: 10px;
+	border: none;
+}
+
+.jiesuan{
+	/*background-color: blue;*/
+	width: 174px;
+	height: 74px;
+	/*position: absolute;*/
+	float: right;
+	margin-top: 40px;
+	margin-right: 25px;
+}
+
+.content_payment_jiesuan{
+	width: 1000px;
+	height: 176px;
+	margin: 0 auto;
+	margin-top: 14px;
+	border: 1px solid gainsboro;
+}
